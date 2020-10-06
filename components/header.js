@@ -21,7 +21,7 @@ header.innerHTML = '<div id="logo" class="fl_left">' +
                     '</li>' +
                     '<li><a class="drop" href="#">Downloads</a>' +
                         '<ul>' +
-                        '<li><a target="_blank" href="https://thabisonjabulomjwara.vercel.app/">Portfolio</a></li>' +
+                        '<li><a target="_blank" href="../downloads/tds-graphics-company-portfolio.pdf">Portfolio</a></li>' +
                         '<li><a target="_blank" title="Link Disabled" href="#">Product Catalog</a></li>' +
                         '</ul>' +
                     '</li>' +
